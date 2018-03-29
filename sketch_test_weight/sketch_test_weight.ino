@@ -1,7 +1,7 @@
 /*
 Custom Weight Program for Hybrid Motor Load Cell
 By: Ken Sodetz
-Created for Purdue Orbital Hybrid Motro Team
+Created for Purdue Orbital Hybrid Motor Team
 Portions borrowd from Nathan Seidle at Sparkfun Electronics
 */
 
