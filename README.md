@@ -1,2 +1,5 @@
 # Arduino Sketches 
-These were created for the Purdue Orbital Engineering Projects in Community Service 
+
+## Various Arduino sketches for use with the HX711 Load Cell Amplifier and MPL3115A2 Altitude/Pressure Sensor
+
+Created for Purdue Orbital. Portions borrowd from Nathan Seidle at Sparkfun Electronics.
